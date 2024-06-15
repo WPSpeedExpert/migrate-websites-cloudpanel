@@ -8,7 +8,7 @@
 # Author URI:         https://wpspeedexpert.com
 # Version:            0.1.0
 # Make executable:    chmod +x rsync-pull-migrate.sh
-# GitHub URI:         https://github.com/WPSpeedExpert/generatepress-child-epicdeals
+# GitHub URI:         https://github.com/WPSpeedExpert/migrate-websites-cloudpanel
 # =========================================================================== #
 # Variables
 #
